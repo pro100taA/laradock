@@ -1889,7 +1889,7 @@ To install Supervisor in the Workspace container
 
 2 - Set `WORKSPACE_INSTALL_SUPERVISOR` and `WORKSPACE_INSTALL_PYTHON` to `true`.
 
-3 - Re-build the container `docker-compose build workspace` Or `docker-composer up --build -d workspace` 
+3 - Re-build the container `docker-compose build workspace` Or `docker-compose up --build -d workspace` 
 
 
 
